@@ -1,0 +1,10 @@
+1) COMP 3104 - DevOps explore DevOps principles for streamlined software development.
+2) Emphasizes collaboration between development and operations.
+3) Focus on Git for efficient code management.
+4) Learn to automate integration and deployment processes.
+5) Understand the concept of managing infrastructure through code.
+6) Hands-on experience with popular DevOps tools.
+7) Introduction to monitoring and logging practices.
+8) Explore Infrastructure as Code (IaC) for scalable and consistent deployments.
+9) Introduction to containerization technologies like Docker for packaging and deploying applications.
+10) Utilize collaborative platforms for effective communication and cooperation among development and operations teams.
