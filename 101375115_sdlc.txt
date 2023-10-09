@@ -8,3 +8,4 @@
 8) DevOps empowers teams to respond quickly to changes in requirements, lessening the impact of changes made in the late stages.
 9) DevOps resource management and automated scaling optimize infrastructure while cutting back on wasteful spending.
 10) The IT sector has a high demand for DevOps skills, which improves job prospects for those in the software development industry.
+
