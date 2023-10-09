@@ -10,4 +10,4 @@ List the changes made in this pull request.
 Describe the steps to test the changes.
 
 *Additional Information:*
-Add any additional information or context.
+Add any additional information or context
